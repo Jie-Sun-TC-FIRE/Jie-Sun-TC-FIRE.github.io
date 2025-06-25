@@ -6,11 +6,11 @@ Welcome to my personal website! This site is built using [GitHub Pages](https://
 
 🔗 **Google Scholar:** [Jie Sun](https://scholar.google.com/citations?user=EBF2gqsAAAAJ&hl=en)
 
-## 🧑‍💻 About Me
+## About Me
 
-I am a research faculty in Florida State University with a focus on  wildland fire dynamics, tropical cyclone intensity and size, and climate feedbacks and sensitivities.  
+I am a research faculty member at Florida State University, specializing in wildland fire dynamics, tropical cyclone intensity and size, and climate feedbacks and sensitivities.
 
-## 📁 Website Structure
+## Website Structure
 
 - `index.html`: Homepage with an introduction and links.
 - `about.html`: A brief biography and background.
@@ -25,13 +25,4 @@ I am a research faculty in Florida State University with a focus on  wildland fi
 - GitHub Pages for free hosting
 - Optional: Jekyll (if you're using a theme)
 
-## 🔧 Setup Instructions
 
-To run this website locally:
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-# If using Jekyll:
-bundle install
-bundle exec jekyll serve
