@@ -6,8 +6,7 @@ Welcome to my personal website! This site is built using [GitHub Pages](https://
 
 ## 🧑‍💻 About Me
 
-I am a [your title/position, e.g., "research scientist", "Ph.D. student in atmospheric sciences", etc.] with a focus on [your research area, e.g., wildland fire dynamics, numerical modeling, radar meteorology].  
-This website highlights my work, publications, and contributions to the scientific community.
+I am a research faculty in Florida State University with a focus on  wildland fire dynamics, tropical cyclone intensity and size, and climate feedbacks and sensitivities.  
 
 ## 📁 Website Structure
 
