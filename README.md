@@ -14,7 +14,7 @@ I am a research faculty member at Florida State University, specializing in wild
 
 - `index.html`: Homepage with an introduction and links.
 - `about.html`: A brief biography and background.
-- `research.html`: Overview of my research projects and interests.
+- [View Research Page](research.html)
 - `publications.html`: List of selected publications.
 - `cv.pdf`: Downloadable resume or curriculum vitae.
 - `contact.html`: How to get in touch.
