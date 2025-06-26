@@ -2,7 +2,7 @@
 
 Welcome to my personal website! This site is built using [GitHub Pages](https://pages.github.com/) and serves as a portfolio of my research, projects, and professional updates.
 
-🔗 **Visit the website:** [https://jie-sun-tc-fire.github.io/](https://jie-sun-tc-fire.github.io/)
+🔗 **Research website:** [https://jie-sun-tc-fire.github.io/research.html](https://jie-sun-tc-fire.github.io/research.html)
 
 🔗 **Google Scholar:** [Jie Sun](https://scholar.google.com/citations?user=EBF2gqsAAAAJ&hl=en)
 
