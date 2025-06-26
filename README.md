@@ -14,8 +14,8 @@ Please visit my research website at: [View Research Page](research.html)
 
 ## Key Technologies
 
-- Matlab, Fortran, Python
-- Idealized General Circulation Models (GCMS), Idealized Radiative Transfer model
-- Complicated models: CESM2, Cloud Model 1 (CM1)
+- Programming Languages & Tools: Matlab, Fortran, Python
+- Idealized General Circulation Models (GCMS), Idealized Radiative Transfer Models
+- Comprehensive models: Community Earth System Model version 2 (CESM2), Cloud Model 1 (CM1)
 
 
