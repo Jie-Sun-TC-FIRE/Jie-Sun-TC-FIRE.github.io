@@ -1,4 +1,4 @@
-# Jie Sun's Personal Website
+# [Jie Sun's Personal Website](https://jie-sun-tc-fire.github.io/)
 
 Welcome to my personal website! This site is built using [GitHub Pages](https://pages.github.com/) and serves as a portfolio of my research, projects, and professional updates.
 
