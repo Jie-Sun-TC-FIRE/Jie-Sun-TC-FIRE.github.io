@@ -10,19 +10,12 @@ Welcome to my personal website! This site is built using [GitHub Pages](https://
 
 I am a research faculty member at Florida State University, specializing in wildland fire dynamics, tropical cyclone intensity and size, and climate feedbacks and sensitivities.
 
-## Website Structure
+Please visit my research website at: [View Research Page](research.html)
 
-- `index.html`: Homepage with an introduction and links.
-- `about.html`: A brief biography and background.
-- [View Research Page](research.html)
-- `publications.html`: List of selected publications.
-- `cv.pdf`: Downloadable resume or curriculum vitae.
-- `contact.html`: How to get in touch.
+## Key Technologies
 
-## 🚀 Technologies Used
-
-- HTML / CSS / JavaScript
-- GitHub Pages for free hosting
-- Optional: Jekyll (if you're using a theme)
+- Matlab, Fortran, Python
+- Idealized General Circulation Models (GCMS), Idealized Radiative Transfer model
+- Complicated models: CESM2, Cloud Model 1 (CM1)
 
 
