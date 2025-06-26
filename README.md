@@ -6,7 +6,7 @@ Welcome to my personal website! This site is built using [GitHub Pages](https://
 
 🔗 **Google Scholar:** [Jie Sun](https://scholar.google.com/citations?user=EBF2gqsAAAAJ&hl=en)
 
-## About Me
+## About Me ([Research](research.html), [CV](CV.html))
 
 I am a research faculty member at Florida State University, specializing in wildland fire dynamics, tropical cyclone intensity and size, and climate feedbacks and sensitivities.
 
